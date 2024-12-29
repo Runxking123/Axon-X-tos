@@ -6,7 +6,7 @@ Your access to and use of the Service is conditioned upon your acceptance of and
 You agree to be bound by these Terms by accessing or using the Service. If you disagree with any part of the terms, you do not have permission to access the Service.
 Purchases
 
-Axon X has no control over and assumes no responsibility for any third-party websites or services' content, privacy policies, or practices. We do not warrant the offerings of any of these entities/individuals or their websites.
+My Botshas no control over and assumes no responsibility for any third-party websites or services' content, privacy policies, or practices. We do not warrant the offerings of any of these entities/individuals or their websites.
 
 You acknowledge and agree that Axon X shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such third party web sites or services.
 
@@ -30,4 +30,4 @@ Our failure to enforce any right or provision of these Terms will not be conside
 Changes
 At our sole discretion, we reserve the right to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice before any new terms take effect. What constitutes a material change will be determined at our sole discretion.
 
-By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. You can no longer use the Service if you do not agree to the new terms.
+By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms. These are the terms of service for my bots!
