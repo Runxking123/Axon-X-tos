@@ -12,8 +12,8 @@ You acknowledge and agree that Axon X shall not be responsible or liable, direct
 
 Therefore, we reserve the right to change or update information and correct errors, inaccuracies, or omissions at any time without prior notice.
 
-Termination
-We may terminate or suspend your access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
+Blacklist
+We may Blacklist or suspend your access to the Service immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
 Indemnification
 You agree to defend, indemnify and hold harmless ProBot and its licensee and licensors and their employees, contractors, agents, officers, and directors, from and against all claims, damages, obligations, losses, liabilities, costs, or debt, and expenses (including but not limited to attorney's fees), resulting from or arising out of a) your use and access of the Service, or b) a breach of these Terms.
